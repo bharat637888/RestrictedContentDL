@@ -1,0 +1,3 @@
+[17-Sep-25 08:42:22 PM - INFO] - <module>() - Line 341: __main__ - Bot Started!
+[17-Sep-25 08:43:07 PM - INFO] - signal_handler() - Line 76: root - Stop signal received (SIGINT). Exiting...
+[17-Sep-25 08:43:07 PM - INFO] - <module>() - Line 349: __main__ - Bot Stopped
